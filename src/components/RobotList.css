@@ -1,0 +1,23 @@
+.robot-list {
+    width: 40%;
+    float: left;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+  }
+  
+  .robot-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .robot-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .robot-list .offline {
+    background-color: #f8d7da;
+  }
+  
